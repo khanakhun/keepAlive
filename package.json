@@ -1,0 +1,17 @@
+{
+  "name": "keepalive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cron": "^1.8.2",
+    "node-fetch": "^3.0.0"
+  }
+}
